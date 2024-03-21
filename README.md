@@ -1,2 +1,2 @@
-# data-visualization
-tableau and bi projects for data analysis and visualization.
+# Data-Visualization
+Tableau and BI Projects for data analysis and visualization.
